@@ -22,7 +22,7 @@ I am Sunil. I am a tech enthusiast & an open-source advocate. I am always open t
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Arch](https://img.shields.io/badge/-ArchLinux-black?style=flat-square&logo=archlinux)
+![Kubernetes](https://img.shields.io/badge/-kubernetes-purple?style=flat-square&logo=kubernetes)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sunilRF9&count_private=true&show_icons=true&include_all_commits=true)
