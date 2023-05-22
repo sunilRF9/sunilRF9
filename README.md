@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Sunil. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects. Find out more about me & feel free to connect with me here:
+I am Sunil. Site Reliability Engineer | Automating, optimizing, and ensuring high availability. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-sunil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunil-subramanya-bs-301188169/)](https://www.linkedin.com/in/sunil-subramanya-bs-301188169/)
 [![Gmail Badge](https://img.shields.io/badge/-sunil1996@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sunil1996@gmail.com)](mailto:sunil1996@gmail.com)
